@@ -1,8 +1,5 @@
 <p align="center">
     <h1 align="center">POS System Using Laravel</h1>
-</p>
-
-The project was created while recording video "Create POS System Using Laravel"
 
 ## Installation
 
@@ -12,7 +9,7 @@ For system requirements you [Check Laravel Requirement](https://laravel.com/docs
 
 ### Clone the repository from github.
 
-    git clone https://github.com/angkosal/laravel-pos.git [YourDirectoryName]
+    git clone https://github.com/mosesyator/laravel-pos.git [YourDirectoryName]
 
 The command installs the project in a directory named `YourDirectoryName`. You can choose a different
 directory name if you want.
@@ -68,19 +65,19 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 
 #### Product list
 
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/products_list.png)
+![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/products_list.png)
 
 #### Create order
 
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/pos.png)
+![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/pos.png)
 
 #### Order list
 
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/order_list.png)
+![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/order_list.png)
 
 #### Customer list
 
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/customer_list.png)
+![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/customer_list.png)
 
 #### laravel functionalities
 Ajax CRUD operations in laravel,
