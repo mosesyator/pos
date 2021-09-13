@@ -61,23 +61,6 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 1. Visit `localhost:8000` in your browser
 1. Visit `/admin` if you want to access the admin. Email: `admin@gmail.com`, Password: `admin`.
 
-### Screenshots
-
-#### Product list
-
-![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/products_list.png)
-
-#### Create order
-
-![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/pos.png)
-
-#### Order list
-
-![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/order_list.png)
-
-#### Customer list
-
-![SS](https://raw.githubusercontent.com/mosesyator/laravel-pos/master/screenshots/customer_list.png)
 
 #### laravel functionalities
 Ajax CRUD operations in laravel,
