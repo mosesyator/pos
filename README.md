@@ -82,3 +82,14 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 
 ![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/customer_list.png)
 
+#### laravel functionalities
+Ajax CRUD operations in laravel
+Export pdf(dombpdf)
+Use of joints to fetch data from database
+use of object counts in dashboard
+Use of arithemetic functionalities(add,substract)
+etc
+
+
+
+
